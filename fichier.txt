@@ -1,0 +1,4 @@
+./photo/e1.png 1
+./photo/e2.png 2
+./photo/e3.png 3
+
